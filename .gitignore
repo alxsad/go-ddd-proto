@@ -1,0 +1,6 @@
+.idea
+data/*
+vendor
+app
+!app/*
+!.gitkeep
